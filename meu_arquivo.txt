@@ -1,0 +1,7 @@
+Configuração Inicial do Git
+
+No terminal, configure seu nome de usuário e e-mail com os seguintes comandos (substitua "Seu Nome" e "seu-email@example.com" com suas informações):
+bash
+ 
+git config --global user.name <span class="hljs-string">"Seu Nome"</span>
+git config --global user.email <span class="hljs-string">"seu-email@example.com"</span>
